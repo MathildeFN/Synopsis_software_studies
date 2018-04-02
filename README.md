@@ -29,11 +29,18 @@ The next steps in the process of writing my final paper are to read and reread t
 **Sources:**
 
 •	Software studies – a lexicon about “Loops” p. 179-183, “Language” p.168
+
 •	10 PRINT CHRS(205.5+RND(1)); : GOTO 10 about “Randomness” p. 119-146
+
 •	Executing liveness by Winnie Soon about “Software art” including “Software Studies: Three key concepts” 2.21 Invisibility and 2.2.2 Performativity p. 54-82, “Generativity”, p.82-90
 •	Generative Art Theory.
+
 •	Lecture by Frieder Nake, Keynote presentation, Watermans Art That Makes Itself Symposium 2015: https://www.youtube.com/watch?v=ICOs_8pjOIc
+
 •	Emergence and Generative Art
+
 •	Generative art and rules-based art
+
 •	What is generative art, Galanter 2003
+
 •	[1 hr video] Beautiful Rules: Generative models of creativity (2007) by Marius Watz
